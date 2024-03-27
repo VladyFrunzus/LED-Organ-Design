@@ -1,0 +1,270 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jun-03-2023 at 21:42:23 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='PROIECT FINAL TIE';
+ POST_TIME='Jul 30 2017 03:29:02';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR NON-POL_SMC1206_330N':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS154@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins154@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins154@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR POL_CAP196_100U':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS179@DISCRETE.CAPACITOR POL.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins179@discrete.\capacitor pol.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins179@discrete.\capacitor pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR NON-POL_SMC1206_100N':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS204@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins204@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins204@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_SML0805_LED':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS809@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins809@discrete.\led.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins809@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 'LED_SML0805_LED':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS1030@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins1030@discrete.\led.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins1030@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_SML0805_LED':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS825@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins825@discrete.\led.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins825@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_SML0805_LED':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS879@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins879@discrete.\led.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins879@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_SML0805_LED':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS895@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins895@discrete.\led.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins895@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_SML0805_LED':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS911@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins911@discrete.\led.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins911@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'LED_SML0805_LED':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS927@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins927@discrete.\led.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins927@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'LED_SML0805_LED':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS943@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins943@discrete.\led.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins943@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 'LED_SML0805_LED':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS998@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins998@discrete.\led.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins998@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 'LED_SML0805_LED':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS1014@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins1014@discrete.\led.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins1014@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC1 '4017_4_SOIC16_4017':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS2747@PROIECT FINAL TIE.4017_4.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins2747@\proiect final tie\.\4017_4.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins2747@\proiect final tie\.\4017_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC2 '4017_4_SOIC16_4017':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS399@PROIECT FINAL TIE.4017_4.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins399@\proiect final tie\.\4017_4.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins399@\proiect final tie\.\4017_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_0_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS10172@PROIECT FINAL TIE.CON2_0.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins10172@\proiect final tie\.\con2_0.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins10172@\proiect final tie\.\con2_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MIC1 'CMA-4544PF-W_MIC_CMA-4544PF-W_C':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS12078@CMA-4544PF-W.CMA-4544PF-W.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins12078@\cma-4544pf-w\.\cma-4544pf-w.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins12078@\cma-4544pf-w\.\cma-4544pf-w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P1 'POT_POT_POT':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS296@DISCRETE.POT.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins296@discrete.\pot.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins296@discrete.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_SMD120612_2.2K':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS40@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins40@discrete.\r.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins40@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_SMD120612_100K':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS65@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins65@discrete.\r.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins65@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_SMD120612_12K':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS81@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins81@discrete.\r.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins81@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_SMD120612_5.6K':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS97@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins97@discrete.\r.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins97@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_SMD120612_560':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS113@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins113@discrete.\r.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins113@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_SMD120612_560':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS129@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins129@discrete.\r.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins129@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S1 'MINI-SPDT-SW_SW_MINI-SPDT-SW_MI':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS9761@MINI-SPDT-SW.MINI-SPDT-SW.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins9761@\mini-spdt-sw\.\mini-spdt-sw.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins9761@\mini-spdt-sw\.\mini-spdt-sw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T1 'BC547_TO92_BC547':;
+
+SECTION_NUMBER 1
+ '@PROIECT FINAL TIE.SCHEMATIC1(SCH_1):INS231@TRANSISTOR.BC547.NORMAL(CHIPS)':
+ C_PATH='@\proiect final tie\.schematic1(sch_1):ins231@transistor.\bc547.normal\(chips)',
+ P_PATH='@\proiect final tie\.schematic1(sch_1):page_ins231@transistor.\bc547.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

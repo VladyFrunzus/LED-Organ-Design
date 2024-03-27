@@ -1,0 +1,14 @@
+{ Using PSTWRITER 17.2.0 d001Jun-08-2023 at 00:26:52 }
+
+#1 WARNING(ORCAP-36006): Part Name "CMA-4544PF-W_MIC_CMA-4544PF-W_CMA-4544PF-W" is renamed to "CMA-4544PF-W_MIC_CMA-4544PF-W_C".
+#2 WARNING(ORCAP-36006): Part Name "MINI-SPDT-SW_SW_MINI-SPDT-SW_MINI-SPDT-SW" is renamed to "MINI-SPDT-SW_SW_MINI-SPDT-SW_MI".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\VLADY\DESKTOP\PROIECT\allegro/pstchip.dat
+
+Loading... C:\USERS\VLADY\DESKTOP\PROIECT\allegro/pstchip.dat
+
+Loading... C:\USERS\VLADY\DESKTOP\PROIECT\allegro/pstxprt.dat
+
+Loading... C:\USERS\VLADY\DESKTOP\PROIECT\allegro/pstxnet.dat
+packaging the design view...

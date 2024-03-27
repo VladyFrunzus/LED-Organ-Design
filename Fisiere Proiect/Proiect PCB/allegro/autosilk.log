@@ -1,0 +1,58 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : PROIECT FINAL TIE.brd                         )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Jun 04 01:01:39 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.00
+Max Text displacement is 100.00
+Min Line Length is 0.00
+Allowing 0, 90, 180 and 270 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : Silkscreen
+ Device Type          : Silkscreen
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : Silkscreen
+ User Part Number     : Silkscreen
+
+Text string 'R4' is not at a suitable location
+(location: 449.50, 1255.00)
+Text string 'R3' is not at a suitable location
+(location: 649.50, 1255.00)
+Text string 'R2' is not at a suitable location
+(location: 249.50, 1255.00)
+Text string 'D5' is not at a suitable location
+(location: 2461.00, 772.00)
+Text string 'D9' is not at a suitable location
+(location: 2461.00, 372.00)
+Text string 'D8' is not at a suitable location
+(location: 2461.00, 472.00)
+Text string 'D7' is not at a suitable location
+(location: 2461.00, 572.00)
+Text string 'D6' is not at a suitable location
+(location: 2461.00, 672.00)
+Text string 'D4' is not at a suitable location
+(location: 2461.00, 872.00)
+Text string 'D3' is not at a suitable location
+(location: 2461.00, 972.00)
+Text string 'D2' is not at a suitable location
+(location: 2461.00, 1072.00)
+Text string 'D1' is not at a suitable location
+(location: 2461.00, 1172.00)
+
+Total Failures: 12
+
+Log End
+
