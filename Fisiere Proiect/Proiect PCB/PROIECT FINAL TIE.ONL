@@ -1,0 +1,694 @@
+(PCB "PROIECT FINAL TIE"
+ (description
+  (timeStamp "2023 06 07 21 26 13")
+  (program "CAPTURE.EXE" (Version "17.2-2016 - D"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "")
+  (date "Wednesday, June 07, 2023")
+  (document "C:\\USERS\\VLADY\\DESKTOP\\PROIECT\\PROIECT FINAL TIE.DSN")
+  (revision "")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component LED
+   (place D10
+    (property 
+     (timestamp 00000410)
+     ("Source Package" LED)
+     (Value LED)
+     ("PCB Footprint" SML0805)))
+   (place D1
+    (property 
+     (timestamp 00000333)
+     ("Source Package" LED)
+     (Value LED)
+     ("PCB Footprint" SML0805)))
+   (place D2
+    (property 
+     (timestamp 00000343)
+     ("Source Package" LED)
+     (Value LED)
+     ("PCB Footprint" SML0805)))
+   (place D3
+    (property 
+     (timestamp 00000379)
+     ("Source Package" LED)
+     (Value LED)
+     ("PCB Footprint" SML0805)))
+   (place D4
+    (property 
+     (timestamp 00000389)
+     ("Source Package" LED)
+     (Value LED)
+     ("PCB Footprint" SML0805)))
+   (place D5
+    (property 
+     (timestamp 00000399)
+     ("Source Package" LED)
+     (Value LED)
+     ("PCB Footprint" SML0805)))
+   (place D6
+    (property 
+     (timestamp 000003A9)
+     ("Source Package" LED)
+     (Value LED)
+     ("PCB Footprint" SML0805)))
+   (place D7
+    (property 
+     (timestamp 000003B9)
+     ("Source Package" LED)
+     (Value LED)
+     ("PCB Footprint" SML0805)))
+   (place D8
+    (property 
+     (timestamp 000003F0)
+     ("Source Package" LED)
+     (Value LED)
+     ("PCB Footprint" SML0805)))
+   (place D9
+    (property 
+     (timestamp 00000400)
+     ("Source Package" LED)
+     (Value LED)
+     ("PCB Footprint" SML0805))))
+  (component R
+   (place R1
+    (property 
+     (timestamp 00000032)
+     ("Source Package" R)
+     (Value 2.2k)
+     ("PCB Footprint" SMD120612)))
+   (place R2
+    (property 
+     (timestamp 0000004B)
+     ("Source Package" R)
+     (Value 100k)
+     ("PCB Footprint" SMD120612)))
+   (place R3
+    (property 
+     (timestamp 0000005B)
+     ("Source Package" R)
+     (Value 12k)
+     ("PCB Footprint" SMD120612)))
+   (place R4
+    (property 
+     (timestamp 0000006B)
+     ("Source Package" R)
+     (Value 5.6k)
+     ("PCB Footprint" SMD120612)))
+   (place R5
+    (property 
+     (timestamp 0000007B)
+     ("Source Package" R)
+     (Value 560)
+     ("PCB Footprint" SMD120612)))
+   (place R6
+    (property 
+     (timestamp 0000008B)
+     ("Source Package" R)
+     (Value 560)
+     ("PCB Footprint" SMD120612))))
+  (component BC547
+   (place T1
+    (property 
+     (timestamp 000000F3)
+     ("Source Package" BC547)
+     (Value BC547)
+     ("PCB Footprint" TO92))))
+  (component POT
+   (place P1
+    (property 
+     (timestamp 00000134)
+     ("Source Package" POT)
+     (Value POT)
+     ("PCB Footprint" POT))))
+  (component CON2_0
+   (place J1
+    (property 
+     (timestamp 000027C6)
+     ("Source Package" CON2_0)
+     (Value CON2)
+     ("PCB Footprint" JUMPER2))))
+  (component "CMA-4544PF-W"
+   (place Mic1
+    (property 
+     (timestamp 00002F38)
+     ("Source Package" "CMA-4544PF-W")
+     (OriginalSymbolOrigin "(-10000,10000)")
+     (Value "CMA-4544PF-W")
+     ("PCB Footprint" "MIC_CMA-4544PF-W"))))
+  (component "CAPACITOR POL"
+   (place C2
+    (property 
+     (timestamp 000000BD)
+     ("Source Package" "CAPACITOR POL")
+     (Value 100u)
+     ("PCB Footprint" CAP196))))
+  (component "MINI-SPDT-SW"
+   (place S1
+    (property 
+     (timestamp 0000262D)
+     ("Source Package" "MINI-SPDT-SW")
+     (OriginalSymbolOrigin "(-20000,20000)")
+     (Value "MINI-SPDT-SW")
+     ("PCB Footprint" "SW_MINI-SPDT-SW"))))
+  (component 4017_4
+   (place IC1
+    (property 
+     (timestamp 00000AE9)
+     ("Source Package" 4017_4)
+     (Value 4017)
+     ("PCB Footprint" SOIC16)))
+   (place IC2
+    (property 
+     (timestamp 000001B5)
+     ("Source Package" 4017_4)
+     (Value 4017)
+     ("PCB Footprint" SOIC16))))
+  (component "CAPACITOR NON-POL"
+   (place C1
+    (property 
+     (timestamp 000000A4)
+     ("Source Package" "CAPACITOR NON-POL")
+     (Value 330n)
+     ("PCB Footprint" SMC1206)))
+   (place C3
+    (property 
+     (timestamp 000000D6)
+     ("Source Package" "CAPACITOR NON-POL")
+     (Value 100n)
+     ("PCB Footprint" SMC1206)))))
+ (library
+  (image R
+   (property 
+    (sourcelib E:\\TCAD\\TOOLS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" VCC)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N04471)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image "CAPACITOR NON-POL"
+   (property 
+    (sourcelib E:\\TCAD\\TOOLS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N04445)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N04471)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image "CAPACITOR POL"
+   (property 
+    (sourcelib E:\\TCAD\\TOOLS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N04307)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image "CMA-4544PF-W"
+   (property 
+    (sourcelib "D:\\PROIECT_TIE\\PROIECT\\CMA-4544PF-W.OLB")
+    (OriginalSymbolOrigin "(-10000,10000)")
+    ("PCB Footprint" "MIC_CMA-4544PF-W"))
+   (pin 999 1
+    (property 
+     (pinname OUT)
+     (pintype 2)
+     (Name OUT)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N04471)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname GND)
+     (pintype 7)
+     (Name GND)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" GND)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image 4017_4
+   (property 
+    (sourcelib "E:\\CHESTII DE LE FAC LA TCAD\\PROIECT FINAL TIE.DSN"))
+   (pin 999 14
+    (property 
+     (pinname CLK)
+     (pintype 0)
+     (Name CLK)
+     (Number 14)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N03522)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 13
+    (property 
+     (pinname E\\N\\A\\)
+     (pintype 0)
+     (Name E\\N\\A\\)
+     (Number 13)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" GND)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 15
+    (property 
+     (pinname RST)
+     (pintype 0)
+     (Name RST)
+     (Number 15)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N03485)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname Q0)
+     (pintype 2)
+     (Name Q0)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N02847)
+     (Order 3)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname Q1)
+     (pintype 2)
+     (Name Q1)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N02945)
+     (Order 4)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname Q2)
+     (pintype 2)
+     (Name Q2)
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Output)
+     (Order 5)
+     ("Is No Connect" True)))
+   (pin 999 7
+    (property 
+     (pinname Q3)
+     (pintype 2)
+     (Name Q3)
+     (Number 7)
+     ("Swap Id" "-1")
+     (Type Output)
+     (Order 6)
+     ("Is No Connect" True)))
+   (pin 999 10
+    (property 
+     (pinname Q4)
+     (pintype 2)
+     (Name Q4)
+     (Number 10)
+     ("Swap Id" "-1")
+     (Type Output)
+     (Order 7)
+     ("Is No Connect" True)))
+   (pin 999 1
+    (property 
+     (pinname Q5)
+     (pintype 2)
+     (Name Q5)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Output)
+     (Order 8)
+     ("Is No Connect" True)))
+   (pin 999 5
+    (property 
+     (pinname Q6)
+     (pintype 2)
+     (Name Q6)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type Output)
+     (Order 9)
+     ("Is No Connect" True)))
+   (pin 999 6
+    (property 
+     (pinname Q7)
+     (pintype 2)
+     (Name Q7)
+     (Number 6)
+     ("Swap Id" "-1")
+     (Type Output)
+     (Order 10)
+     ("Is No Connect" True)))
+   (pin 999 9
+    (property 
+     (pinname Q8)
+     (pintype 2)
+     (Name Q8)
+     (Number 9)
+     ("Swap Id" "-1")
+     (Type Output)
+     (Order 11)
+     ("Is No Connect" True)))
+   (pin 999 11
+    (property 
+     (pinname Q9)
+     (pintype 2)
+     (Name Q9)
+     (Number 11)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N02937)
+     (Order 12)
+     ("Is No Connect" False)))
+   (pin 999 12
+    (property 
+     (pinname CO)
+     (pintype 2)
+     (Name CO)
+     (Number 12)
+     ("Swap Id" "-1")
+     (Type Output)
+     (Order 13)
+     ("Is No Connect" True)))
+   (pin 999 16
+    (property 
+     (pinname VCC)
+     (pintype 7)
+     (Name VCC)
+     (Number 16)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" VCC)
+     (Order 14)
+     ("Is No Connect" False)))
+   (pin 999 8
+    (property 
+     (pinname GND)
+     (pintype 7)
+     (Name GND)
+     (Number 8)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" GND)
+     (Order 15)
+     ("Is No Connect" False))))
+  (image "MINI-SPDT-SW"
+   (property 
+    (sourcelib "D:\\PROIECT_TIE\\MINI-SPDT-SW\\MINI-SPDT-SW.OLB")
+    ("PCB Footprint" "SW_MINI-SPDT-SW")
+    (OriginalSymbolOrigin "(-20000,20000)"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N02937)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N03485)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)
+     (Name 3)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N02945)
+     (Order 2)
+     ("Is No Connect" False))))
+  (image POT
+   (property 
+    (sourcelib E:\\TCAD\\TOOLS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname A)
+     (pintype 4)
+     (Name A)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N04274)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname B)
+     (pintype 4)
+     (Name B)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname WIPER)
+     (pintype 4)
+     (Name WIPER)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N03522)
+     (Order 2)
+     ("Is No Connect" False))))
+  (image CON2_0
+   (property 
+    (sourcelib "D:\\PROIECT_TIE\\PROIECT\\PROIECT FINAL TIE.DSN"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 7)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" VCC)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 7)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Power)
+     ("Net Name" GND)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image LED
+   (property 
+    (sourcelib E:\\TCAD\\TOOLS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname ANODE)
+     (pintype 4)
+     (Name ANODE)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N0043712)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname CATHODE)
+     (pintype 4)
+     (Name CATHODE)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N01138)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image BC547
+   (property 
+    (sourcelib E:\\TCAD\\TOOLS\\CAPTURE\\LIBRARY\\TRANSISTOR.OLB))
+   (pin 999 3
+    (property 
+     (pinname COLLECTOR)
+     (pintype 4)
+     (Name COLLECTOR)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N04274)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 1
+    (property 
+     (pinname EMITTER)
+     (pintype 4)
+     (Name EMITTER)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N04307)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname BASE)
+     (pintype 0)
+     (Name BASE)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N04445)
+     (Order 2)
+     ("Is No Connect" False)))))
+ (network
+  (net GND
+    (property 
+     (nettype S))
+   (pins
+     R3-2 R5-2 R6-2 C2-2 C3-2 P1-3 IC2-13 IC2-15 IC2-8
+     IC1-13 IC1-8 J1-2 Mic1-2))
+  (net N0043710
+   (pins
+     IC2-6 D8-1))
+  (net N0043711
+   (pins
+     IC2-9 D9-1))
+  (net N0043712
+   (pins
+     IC2-11 D10-1))
+  (net N004373
+   (pins
+     IC2-3 D7-1))
+  (net N004374
+   (pins
+     IC2-2 D6-1))
+  (net N004375
+   (pins
+     IC2-4 D5-1))
+  (net N004376
+   (pins
+     IC2-7 D4-1))
+  (net N004377
+   (pins
+     IC2-10 D3-1))
+  (net N004378
+   (pins
+     IC2-1 D2-1))
+  (net N004379
+   (pins
+     IC2-5 D1-1))
+  (net N01138
+   (pins
+     R5-1 D1-2 D2-2 D3-2 D4-2 D5-2 D6-2 D7-2 D8-2
+     D9-2 D10-2))
+  (net N02847
+   (pins
+     IC2-14 IC1-3))
+  (net N02937
+   (pins
+     IC1-11 S1-1))
+  (net N02945
+   (pins
+     IC1-2 S1-3))
+  (net N03485
+   (pins
+     IC1-15 S1-2))
+  (net N03522
+   (pins
+     P1-2 IC1-14))
+  (net N04274
+   (pins
+     R4-2 T1-3 P1-1))
+  (net N04307
+   (pins
+     R6-1 C2-1 T1-1))
+  (net N04445
+   (pins
+     R2-2 R3-1 C1-1 T1-2))
+  (net N04471
+   (pins
+     R1-2 C1-2 Mic1-1))
+  (net VCC
+    (property 
+     (nettype S))
+   (pins
+     R1-1 R2-1 R4-1 C3-1 IC2-16 IC1-16 J1-1)))
+)

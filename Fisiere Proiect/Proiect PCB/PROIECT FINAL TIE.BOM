@@ -1,0 +1,30 @@
+  Revised: Wednesday, June 07, 2023
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials           June 7,2023      22:13:44	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	330n
+2	1	C2	100u
+3	1	C3	100n
+4	10	D1,D2,D3,D4,D5,D6,D7,D8,	LED
+		D9,D10
+5	2	IC1,IC2	4017
+6	1	J1	CON2
+7	1	Mic1	CMA-4544PF-W
+8	1	P1	POT
+9	1	R1	2.2k
+10	1	R2	100k
+11	1	R3	12k
+12	1	R4	5.6k
+13	2	R5,R6	560
+14	1	S1	MINI-SPDT-SW
+15	1	T1	BC547

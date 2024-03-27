@@ -1,0 +1,129 @@
+\t (00:00:33) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:33)     Journal start - Thu Aug 24 17:16:04 2023
+\t (00:00:33)         Host=LAPTOP-QQ99L5ET User=Virgil Pid=14524 CPUs=8
+\t (00:00:33) CmdLine= D:\TCAD\tools\bin\allegro.exe
+\t (00:00:33) 
+\d (00:00:33) Design opened: D:/PROIECT_TIE_VERSIUNE_FINALA/Proiect_Final_TIE_Frunza_Vladimir_Ronce_Teodor_423B_2022_2023/Continut Stick/Proiect PCB/MIC_CMA-4544PF-W.dra
+\i (00:00:33) trapsize 6352
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 2.0741 0.6081
+\i (00:00:35) trapsize 3176
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in -17.4275 0.6081
+\i (00:00:35) trapsize 1588
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in -17.4274 0.6081
+\i (00:00:35) trapsize 794
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out -17.4274 0.6081
+\i (00:00:36) trapsize 1588
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out -17.4274 0.6081
+\i (00:00:36) trapsize 3176
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in -17.4274 0.6082
+\i (00:00:37) trapsize 1588
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in -2.1501 -0.4717
+\i (00:00:38) trapsize 794
+\i (00:00:43) setwindow form.mini
+\i (00:00:43) FORM mini class DEVICE TYPE 
+\i (00:00:49) FORM mini class COMPONENT VALUE 
+\i (00:00:53) FORM mini class BOARD GEOMETRY 
+\i (00:00:58) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out -0.8002 1.4499
+\i (00:01:06) trapsize 1588
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out -0.8002 1.4500
+\i (00:01:06) trapsize 3176
+\i (00:01:07) zoom in 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom in 18.5266 1.4500
+\i (00:01:07) trapsize 1588
+\i (00:01:32) setwindow form.mini
+\i (00:01:32) FORM mini class EMBEDDED GEOMETRY 
+\i (00:01:35) FORM mini class BOARD GEOMETRY 
+\i (00:01:42) FORM mini class PIN 
+\i (00:01:48) FORM mini class REF DES 
+\i (00:03:04) FORM mini subclass SILKSCREEN_TOP 
+\i (00:03:11) FORM mini class PIN 
+\i (00:03:21) FORM mini class PACKAGE GEOMETRY 
+\i (00:03:28) FORM mini subclass PIN_NUMBER 
+\i (00:03:51) setwindow pcb
+\i (00:03:51) open 
+\i (00:03:54) fillin "SW_MINI-SPDT-SW.dra"
+\t (00:03:54) Opening existing design...
+\i (00:04:03) fillin yes 
+\i (00:04:03) trapsize 3571
+\i (00:04:03) trapsize 3653
+\i (00:04:03) trapsize 3653
+\d (00:04:03) Design opened: D:/PROIECT_TIE_VERSIUNE_FINALA/Proiect_Final_TIE_Frunza_Vladimir_Ronce_Teodor_423B_2022_2023/Continut Stick/Proiect PCB/SW_MINI-SPDT-SW.dra
+\i (00:04:05) zoom in 1 
+\i (00:04:05) setwindow pcb
+\i (00:04:05) zoom in 4.8324 0.9055
+\i (00:04:05) trapsize 1827
+\i (00:04:05) zoom in 1 
+\i (00:04:05) setwindow pcb
+\i (00:04:05) zoom in 4.8323 0.9055
+\i (00:04:05) trapsize 913
+\i (00:09:54) etchedit 
+\i (00:10:03) generaledit 
+\i (00:10:10) etchedit 
+\i (00:10:12) generaledit 
+\i (00:10:14) etchedit 
+\i (00:10:16) generaledit 
+\i (00:10:19) setwindow form.find
+\i (00:10:19) FORM find all_off  
+\i (00:10:24) FORM find text YES 
+\i (00:10:25) setwindow pcb
+\i (00:10:25) pick grid 6.5675 -2.4553
+\t (00:10:25) last pick:  6.3500 -2.5400
+\i (00:10:25) pick grid 4.5583 -2.6745
+\t (00:10:25) last pick:  4.4450 -2.5400
+\i (00:11:11) open 
+\e (00:11:11) Do you want to save the changes you made to SW_MINI-SPDT-SW.dra?
+\i (00:11:13) fillin no 
+\i (00:11:15) fillin "MIC_CMA-4544PF-W.dra"
+\t (00:11:15) Opening existing design...
+\i (00:11:17) fillin yes 
+\i (00:11:17) trapsize 6066
+\i (00:11:17) trapsize 6352
+\i (00:11:17) trapsize 6352
+\d (00:11:17) Design opened: D:/PROIECT_TIE_VERSIUNE_FINALA/Proiect_Final_TIE_Frunza_Vladimir_Ronce_Teodor_423B_2022_2023/Continut Stick/Proiect PCB/MIC_CMA-4544PF-W.dra
+\i (00:11:17) generaledit 
+\i (00:11:19) zoom in 1 
+\i (00:11:19) setwindow pcb
+\i (00:11:19) zoom in 7.9182 1.1162
+\i (00:11:19) trapsize 3176
+\i (00:11:19) zoom in 1 
+\i (00:11:19) setwindow pcb
+\i (00:11:19) zoom in -14.5054 1.1162
+\i (00:11:19) trapsize 1588
+\i (00:15:35) xname_flush 
+\e (00:15:51) Command not found: xdehilite
+\i (00:15:51) xname_flush 
+\i (00:15:51) done 
+\i (00:15:51) generaledit 
+\i (00:22:12) xname_flush 
+\e (00:22:20) Command not found: xdehilite
+\i (00:22:20) xname_flush 
+\i (00:22:20) done 
+\e (00:22:20) Command not found: xhilite
+\i (00:22:20) xname_flush 
+\e (00:22:20) No command active
+\i (00:22:20) done 
+\e (00:22:20) No command active
+\i (00:22:20) generaledit 
+\i (00:48:48) exit 
+\t (00:48:49)     Journal end - Thu Aug 24 18:04:20 2023

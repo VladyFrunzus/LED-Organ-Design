@@ -1,0 +1,160 @@
+Wire List
+
+                                              Revised: Wednesday, June 07, 2023
+C:\USERS\VLADY\DESKTOP\PROIECT\PROIECT FINAL TRevision: 
+
+
+
+
+
+
+<<< Component List >>>
+330n                          C1        SMC1206
+100u                          C2        CAP196
+100n                          C3        SMC1206
+LED                           D1        SML0805
+LED                           D10       SML0805
+LED                           D2        SML0805
+LED                           D3        SML0805
+LED                           D4        SML0805
+LED                           D5        SML0805
+LED                           D6        SML0805
+LED                           D7        SML0805
+LED                           D8        SML0805
+LED                           D9        SML0805
+4017                          IC1       SOIC16
+4017                          IC2       SOIC16
+CON2                          J1        JUMPER2
+CMA-4544PF-W                  Mic1      MIC_CMA-4544PF-W
+POT                           P1        POT
+2.2k                          R1        SMD120612
+100k                          R2        SMD120612
+12k                           R3        SMD120612
+5.6k                          R4        SMD120612
+560                           R5        SMD120612
+560                           R6        SMD120612
+MINI-SPDT-SW                  S1        SW_MINI-SPDT-SW
+BC547                         T1        TO92
+
+<<< Wire List >>>
+
+  NODE  REFERENCE    PIN #   PIN NAME           PIN TYPE       PART VALUE
+
+[00001] GND
+        R3              2       2               Passive        12k
+        R5              2       2               Passive        560
+        R6              2       2               Passive        560
+        C2              2       2               Passive        100u
+        C3              2       2               Passive        100n
+        P1              3       B               Passive        POT
+        IC2             13      E\N\A\          Input          4017
+        IC2             15      RST             Input          4017
+        IC2             8       GND             Power          4017
+        IC1             13      E\N\A\          Input          4017
+        IC1             8       GND             Power          4017
+        J1              2       2               Power          CON2
+        Mic1            2       GND             Power          CMA-4544PF-W
+
+[00002] N0043710
+        IC2             6       Q7              Output         4017
+        D8              1       ANODE           Passive        LED
+
+[00003] N0043711
+        IC2             9       Q8              Output         4017
+        D9              1       ANODE           Passive        LED
+
+[00004] N0043712
+        IC2             11      Q9              Output         4017
+        D10             1       ANODE           Passive        LED
+
+[00005] N004373
+        IC2             3       Q0              Output         4017
+        D7              1       ANODE           Passive        LED
+
+[00006] N004374
+        IC2             2       Q1              Output         4017
+        D6              1       ANODE           Passive        LED
+
+[00007] N004375
+        IC2             4       Q2              Output         4017
+        D5              1       ANODE           Passive        LED
+
+[00008] N004376
+        IC2             7       Q3              Output         4017
+        D4              1       ANODE           Passive        LED
+
+[00009] N004377
+        IC2             10      Q4              Output         4017
+        D3              1       ANODE           Passive        LED
+
+[00010] N004378
+        IC2             1       Q5              Output         4017
+        D2              1       ANODE           Passive        LED
+
+[00011] N004379
+        IC2             5       Q6              Output         4017
+        D1              1       ANODE           Passive        LED
+
+[00012] N01138
+        R5              1       1               Passive        560
+        D1              2       CATHODE         Passive        LED
+        D2              2       CATHODE         Passive        LED
+        D3              2       CATHODE         Passive        LED
+        D4              2       CATHODE         Passive        LED
+        D5              2       CATHODE         Passive        LED
+        D6              2       CATHODE         Passive        LED
+        D7              2       CATHODE         Passive        LED
+        D8              2       CATHODE         Passive        LED
+        D9              2       CATHODE         Passive        LED
+        D10             2       CATHODE         Passive        LED
+
+[00013] N02847
+        IC2             14      CLK             Input          4017
+        IC1             3       Q0              Output         4017
+
+[00014] N02937
+        IC1             11      Q9              Output         4017
+        S1              1       1               Passive        MINI-SPDT-SW
+
+[00015] N02945
+        IC1             2       Q1              Output         4017
+        S1              3       3               Passive        MINI-SPDT-SW
+
+[00016] N03485
+        IC1             15      RST             Input          4017
+        S1              2       2               Passive        MINI-SPDT-SW
+
+[00017] N03522
+        P1              2       WIPER           Passive        POT
+        IC1             14      CLK             Input          4017
+
+[00018] N04274
+        R4              2       2               Passive        5.6k
+        T1              3       COLLECTOR       Passive        BC547
+        P1              1       A               Passive        POT
+
+[00019] N04307
+        R6              1       1               Passive        560
+        C2              1       1               Passive        100u
+        T1              1       EMITTER         Passive        BC547
+
+[00020] N04445
+        R2              2       2               Passive        100k
+        R3              1       1               Passive        12k
+        C1              1       1               Passive        330n
+        T1              2       BASE            Input          BC547
+
+[00021] N04471
+        R1              2       2               Passive        2.2k
+        C1              2       2               Passive        330n
+        Mic1            1       OUT             Output         CMA-4544PF-W
+
+[00022] VCC
+        R1              1       1               Passive        2.2k
+        R2              1       1               Passive        100k
+        R4              1       1               Passive        5.6k
+        C3              1       1               Passive        100n
+        IC2             16      VCC             Power          4017
+        IC1             16      VCC             Power          4017
+        J1              1       1               Power          CON2
+
